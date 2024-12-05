@@ -1,0 +1,255 @@
+
+
+/*
+CSS changes can be made in files in the /css/ folder. This is a placeholder file required by WordPress, so do not delete it.
+
+Changelog
+3.3
+- Added WordPress 6.2.2 compatibility
+- Added WooCommerce 7.7.0 compatibility
+- Added support for core/search block
+- Added support for Filter By Price
+- Added styling for block tagcloud
+- Added PHP 8.2 compatibility
+- Added google maps callback function
+- Added default vc_btn element
+- Removed Google + sharing option
+- Removed form-coupon template override
+- Removed cart-empty template override
+- Removed form-login template override
+- Removed form-edit-address template override
+- Updated WPBakery Page Builder to 6.11.0
+- Updated Layer Slider to 7.7.5
+- Updated Subway Core plugin to 1.0.5
+- Fixed Custom Sidebars functionality
+- Fixed shop sidebar display on shop archive
+- Fixed post format meta options display
+- Fixed post format meta options save
+- Fixed Parallax section warning
+- Fixed unnecessary slashes
+- Improved subway_qode_get_attachment_id_from_url function
+- Changed Envato Market installation source
+
+3.2
+- Added WordPress 5.5 compatibility
+- Added WooCommerce 4.7.1 compatibility
+- Updated WPBakery Page Builder to 6.4.2
+- Updated Layer Slider to 6.11.2
+- Updated Subway Core plugin to 1.0.4
+- Fixed login button on My account WooCommerce page
+- Fixed the Show Load More option (Show More button) on the Portfolio element
+
+3.1
+- Added WooCommerce 3.6.5 compatibility
+- Updated WPBakery Page Builder to 6.0.5
+- Updated Layer Slider to 6.8.4
+- Fixed portfolio image upload error
+- Fixed Blog Masonry template
+- Fixed problem with page id on shop pages
+
+3.0.3
+- Updated Subway Core plugin to 1.0.3
+- Fixed Font Awesome icons style
+
+3.0.2
+- Updated Subway Core plugin to 1.0.2
+- Updated subway-core.pot and subway.pot translation files
+- Improved theme security
+- Fixed minor bugs
+
+3.0.1
+- Updated Subway Core plugin to 1.0.1
+- Improved theme functions
+- Fixed minor bugs
+
+3.0 (Major update)
+- Added WordPress 5.x compatibility
+- Added Subway Core plugin
+- Added WooCommerce 3.5.6 compatibility
+- Updated Layer Slider to 6.8.2
+- Updated WPBakery Page Builder to 5.7
+- Improved theme templates, modules and functions
+- Improved theme security
+- Improved theme performance (Added logic to create static css, js files instead of php (style_dynamic.php, style_dynamic_responsive.php and default_dynamic.php))
+- Improved options image pop-up editor for dashboard panel
+- Improved google map script on contact page to prevent potential error if Google Map API key is not set
+- Improved comments list
+- Escaped all variables, text domains etc.
+- Renamed all functions, hooks, templates with unique name
+- Hide Qode SEO Fields meta box if option is disabled through Qode Options
+- Removed custom_css.php and custom_js.php files and improved logic to add custom code as inline
+- Removed unnecessary functions, variables etc.
+- Fixed theme text domain
+- Fixed bugs
+
+2.7
+- Added WooCommerce 3.5.3 compatibility
+- Updated WPBakery Page Builder to 5.6
+- Updated Layer slider to 6.7.6
+- Updated Envato Market plugin to version 2.0.1
+
+2.6
+- Added WooCommerce 3.3.4 compatibility
+- Added compatibility with PHP 7.2
+- Updated Visual Composer to version 5.4.7
+- Updated Layer Slider to 6.7.1
+- Updated Envato Market plugin to version 2.0.0
+- Fixed deprecated create_function
+
+2.5
+- Added WooCommerce 3.2.5 compatibility
+- Added Envato Market plugin as required
+- Added WooCommerce plugin as recommended
+- Updated Visual Composer to version 5.4.5
+- Updated Layer Slider to 6.6.4
+- Fixed deprecated constructor in theme options
+
+2.4
+- Added WooCommerce 3.1 compatibility
+- Updated Visual Composer to version 5.2
+- Updated Layer Slider to 6.5.1
+
+2.3
+- Added WooCommerce 2.6.8 compatibility
+- Updated Visual Composer to version 5.0.1
+- Updated Layer Slider to 6.0.6
+
+2.2
+- Added Woocommerce 2.6.4 compatibility
+- Added Google Maps API key in Qode Options -> Global Options
+- Updated Visual Composer to 4.12.1
+- Updated Layer Slider to 5.6.10
+- Fixed border issue in Icon shortcode
+- Fixed Color Picker issue
+
+2.1
+- Added Woocommerce 2.6.1 compatibility
+- Updated Visual Composer to 4.12
+- Updated Layer Slider to 5.6.9
+- Updated TGM Plugin Activation to 2.6.1
+- Fixed Social Share functionality
+
+2.0.1
+- Updated Visual Composer to 4.11.2.1
+- Updated Layer Slider to 5.6.6
+
+2.0
+- Added WP 4.5 compatibility
+- Updated Layer Slider to 5.6.4
+
+1.9
+- Added WooCommerce 2.5.5 compatibility
+- Updated Visual Composer to 4.11.1
+- Fixed Google Map Warning for Sensor parameter no longer being required
+- Fixed bug with Portfolio List Columns option
+- Fixed issue with Blockquote element not rendering default blockquote text
+- Fixed issue with Custom Font element not saving default styling values
+- Fixed issue with deleting custom widget area
+
+1.8
+- Added WooCommerce 2.4.6 compatibility
+- Updated Visual Composer to 4.7.4
+- Updated Layer Slider to 5.6.2
+- Fixed bug with Qode Flickr Widget
+
+1.7
+- Added WooCommerce 2.3.10 compatibility
+- Updated Visual Composer to 4.5.3
+- Updated Layer Slider to 5.4.0
+- Updated PrettyPhoto to 3.1.6
+- Fixed prettyPhoto XSS
+
+1.6
+- Added WooCommerce 2.3.8 compatibility
+- Updated Visual Composer to 4.4.4
+- Updated TGM Plugin Activation class for security vulnerability
+- Fixed bug with registering custom sidebars in WordPress 4.2
+- Fixed bug with link option for single image shortcode
+- Fixed bug with design options for row not workging
+
+1.5
+- Added WooCommerce 2.3.6 compatibility
+- Updated Visual Composer to version 4.4.3
+
+1.4
+- Added WooCommerce 2.3.5 compatibility
+- Update Visual Composer to version 4.4.2 with custom work by Qode
+
+1.3
+- Added WooCommerce 2.2.7 compatibility
+- Updated LayerSlider to version 5.3.2
+
+1.2
+- Added WooCommerce 2.2 compatibility
+- Improved Expandable shortcode
+- Improved page transition to register page loading with Google Analytics
+- Updated LayerSlider to version 5.2.0
+- Fixed facebook share for language with special character
+- Fixed dropdown menu position when boxed layout is enabled
+- Fixed bug with related products for WooCommerce
+- Fixed bug with don't link option for menu items and page transitions
+- Fixed bug with click event with ctrl key pressed and page transitions
+
+1.1
+- Updated Visual Composer to Version 4.1.2 with custom work by Qode
+- Updated LayerSlider to version 5.1.1
+- Updated translation files
+- Updated Sorting of font awesome icons array
+- Fixed WP 3.9 Qode Shortcodes bug
+- Fixed WP 3.9 Qode Options image browser field bug
+- Fixed WooCommerce checkout fields translation
+- Fixed paddings on box shortcode
+
+1.0.5
+- Added WooCommerce 2.1 integration(from this version our theme is compatible only with WC 2.1+)
+- Updated label translation files
+- Fixed responsive footer columns margins
+- Fixed a bug with latest blog shortcode regarding localization of the post dates
+- Fixed some minor bugs with anchor active class
+- Fixed bug with Visual Composer css loading
+- Fixed Google font inclusion bug
+- Fixed blog masonry layout
+- Fixed background color changing for "add to cart button" on single product page
+- Fixed section overlaping separator with icon
+- Fixed 'qode like' functionality on portfolios that are inerted via 'load more' functions
+
+1.0.4
+- Added anchor functionality on parallax sections, custom links (manualy added class needed) and buttons
+- Added video background functionality on sections
+- Updated smooth scroll on/off logic to choose between all devices and all without Mac devices (all devices are not including touch devices)
+- Improved logo resize logic
+- Improved mobile menu logic, now closing on menu item click
+- Fixed side menu opening with ajax animations
+- Fixed 404 page subtitle
+- Fixed add to cart background color when main color is changed
+- Fixed cart table background color when main color is changed
+- Fixed deliting of custom sidebars
+- Fixed margin for last child of custom menu widget in side area 
+- Fixed steps attributes for line graph shortcode in Visual Composer
+- Fixed portfolio list for new version of Chrome
+- Fixed category attribute in latest posts shortcode
+- Fixed centering of portfolio item's features in portfolio lists
+- Fixed anchor logic when ajax loader is not on
+- Fixed anchor hash changing on same page
+- Fixed responsive header background color
+
+1.0.3
+- Added "Center logo" functionality
+- Added "Main Menu One Page Site" functionality (via anchors)
+- Added link and target attributes for Steps shortcode
+- Fixed portfolio list load more on home page
+- Fixed "Hide featured image" bug on single blog
+- Fixed breadcrumbs label translation
+
+1.0.2
+- Updated LayerSlider to version 4.6.5
+
+1.0.1
+- Updated wpml-config.xml file
+- Updated functions.php not to require allow_url_fopen=1 php.ini variable
+- Fixed cover boxes shortcode buttons link
+- Fixed site width on touch devices when responsiveness is turned off
+- Fixed border line for masonry audio article
+- Fixed toggle shortcode
+
+*/

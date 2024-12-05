@@ -1,0 +1,25 @@
+.column_inner.widget.widget_text {
+    line-height: 15px;
+    padding: 0;
+}
+
+.sprite-android{
+    background: url(../images/sprite1.png) no-repeat -12px -15px;
+}
+.sprite-ios{
+    background: url(../images/sprite1.png) no-repeat -170px -15px;
+}
+.sprite{
+    width: 157px;
+    height: 55px;
+    display: inline-block;
+}
+.sprite-call{
+    width: 110px;
+    height: 120px;
+    display: inline-block;
+    background: url(../images/sprite1.png) no-repeat -22px -116px;
+   /* margin-top: 51px;
+    */
+    float: left;
+}

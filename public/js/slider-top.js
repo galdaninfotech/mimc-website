@@ -1,0 +1,1 @@
+jQuery(function() { _initLayerSlider( '#layerslider_1_8o5nkj896rks', {sliderVersion: '', responsiveUnder: 1060, layersContainer: 1060, twoWaySlideshow: true, skin: 'preview', useSrcset: true, skinsPath: '/skins/', type: 'fullwidth', showCircleTimer: false, performanceMode: true}); });
