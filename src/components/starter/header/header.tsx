@@ -113,29 +113,29 @@ export default component$(() => {
                                     <li id="nav-menu-item-2594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub">
                                             <a href="#" class=""><i class="menu_icon blank"></i><span></span>Sambodhi Retreat Centre</a>
                                             <ul>
-                                                <li id="nav-menu-item-2593" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/parallax-header/" class=""><i class="menu_icon blank"></i><span></span>Facilities</a></li>
-                                                <li id="nav-menu-item-2727" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/slider-header/" class=""><i class="menu_icon blank"></i><span></span>Courses at Sambodhi Retreat Centre</a></li>
-                                                <li id="nav-menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/custom-image-header/" class=""><i class="menu_icon blank"></i><span></span>Meditation Schedule</a></li>
-                                                <li id="nav-menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/custom-color-header/" class=""><i class="menu_icon blank"></i><span></span>Online Registration</a></li>
-                                                <li id="nav-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/without-header/" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
-                                                <li id="nav-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/without-header/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                                <li id="nav-menu-item-2593" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/facilities" class=""><i class="menu_icon blank"></i><span></span>Facilities</a></li>
+                                                <li id="nav-menu-item-2727" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/courses" class=""><i class="menu_icon blank"></i><span></span>Courses at Sambodhi Retreat Centre</a></li>
+                                                <li id="nav-menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/meditation-schedule" class=""><i class="menu_icon blank"></i><span></span>Meditation Schedule</a></li>
+                                                <li id="nav-menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/online-registration" class=""><i class="menu_icon blank"></i><span></span>Online Registration</a></li>
+                                                <li id="nav-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/notice" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
+                                                <li id="nav-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                             </ul>
                                         </li>
                                         <li id="nav-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub">
                                             <a href="#" class=""><i class="menu_icon blank"></i><span></span>Changspa Centre</a>
                                             <ul>
-                                                <li id="nav-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-one/" class=""><i class="menu_icon blank"></i><span></span>Meditation and Yoga Schedule</a></li>
-                                                <li id="nav-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-two/" class=""><i class="menu_icon blank"></i><span></span>Sunday Puja at Devachan</a></li>
-                                                <li id="nav-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-three/" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
-                                                <li id="nav-menu-item-2597" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-four/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                                <li id="nav-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/meditation-yoga-schedule" class=""><i class="menu_icon blank"></i><span></span>Meditation and Yoga Schedule</a></li>
+                                                <li id="nav-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/sunday-puja" class=""><i class="menu_icon blank"></i><span></span>Sunday Puja at Devachan</a></li>
+                                                <li id="nav-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/notice" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
+                                                <li id="nav-menu-item-2597" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                             </ul>
                                         </li>
                                         <li id="nav-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub">
                                             <a href="#" class=""><i class="menu_icon blank"></i><span></span>Metropolitan Retreat Centers</a>
                                             <ul>
-                                                <li id="nav-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-one/" class=""><i class="menu_icon blank"></i><span></span>Schedule for the Meditation Programs</a></li>
-                                                <li id="nav-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-two/" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                                <li id="nav-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-three/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                                <li id="nav-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/meditation-schedule" class=""><i class="menu_icon blank"></i><span></span>Schedule for the Meditation Programs</a></li>
+                                                <li id="nav-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                                <li id="nav-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                             </ul>
                                         </li>
                                     </ul>
@@ -335,29 +335,29 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                                     <a href="#" class=""><span>Sambodhi Retreat Centre</span><span class="mobile_arrow"></span></a>
                                     <ul class="sub_menu">
-                                        <li id="mobile-menu-item-2593" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/parallax-header/" class=""><i class="menu_icon blank"></i><span></span>Facilities</a></li>
-                                        <li id="mobile-menu-item-2727" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/slider-header/" class=""><i class="menu_icon blank"></i><span></span>Courses at Sambodhi Retreat Centre</a></li>
-                                        <li id="mobile-menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/custom-image-header/" class=""><i class="menu_icon blank"></i><span></span>Meditation Schedule</a></li>
-                                        <li id="mobile-menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/custom-color-header/" class=""><i class="menu_icon blank"></i><span></span>Online Registration</a></li>
-                                        <li id="mobile-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/without-header/" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
-                                        <li id="mobile-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/without-header/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="mobile-menu-item-2593" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/facilities" class=""><i class="menu_icon blank"></i><span></span>Facilities</a></li>
+                                        <li id="mobile-menu-item-2727" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/courses" class=""><i class="menu_icon blank"></i><span></span>Courses at Sambodhi Retreat Centre</a></li>
+                                        <li id="mobile-menu-item-2590" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/meditation-schedule" class=""><i class="menu_icon blank"></i><span></span>Meditation Schedule</a></li>
+                                        <li id="mobile-menu-item-2591" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/online-registration" class=""><i class="menu_icon blank"></i><span></span>Online Registration</a></li>
+                                        <li id="mobile-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/notice" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
+                                        <li id="mobile-menu-item-2592" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                     </ul>
                                 </li>
                                 <li id="mobile-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                                     <a href="#" class=""><span>Changspa Centre</span><span class="mobile_arrow"></span></a>
                                     <ul class="sub_menu">
-                                        <li id="mobile-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-one/" class=""><i class="menu_icon blank"></i><span></span>Meditation and Yoga Schedule</a></li>
-                                        <li id="mobile-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-two/" class=""><i class="menu_icon blank"></i><span></span>Sunday Puja at Devachan</a></li>
-                                        <li id="mobile-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-three/" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
-                                        <li id="mobile-menu-item-2597" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-four/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="mobile-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/meditation-yoga-schedule" class=""><i class="menu_icon blank"></i><span></span>Meditation and Yoga Schedule</a></li>
+                                        <li id="mobile-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/sunday-puja" class=""><i class="menu_icon blank"></i><span></span>Sunday Puja at Devachan</a></li>
+                                        <li id="mobile-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/notice" class=""><i class="menu_icon blank"></i><span></span>Notice</a></li>
+                                        <li id="mobile-menu-item-2597" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                     </ul>
                                 </li>
                                 <li id="mobile-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                                     <a href="#" class=""><span>Metropolitan Retreat Centers</span><span class="mobile_arrow"></span></a>
                                     <ul class="sub_menu">
-                                        <li id="mobile-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-one/" class=""><i class="menu_icon blank"></i><span></span>Schedule for the Meditation Programs</a></li>
-                                        <li id="mobile-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-two/" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="mobile-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/layerslider-example-three/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="mobile-menu-item-2598" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/meditation-schedule" class=""><i class="menu_icon blank"></i><span></span>Schedule for the Meditation Programs</a></li>
+                                        <li id="mobile-menu-item-2600" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="mobile-menu-item-2599" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/changspa-centre/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                     </ul>
                                 </li>
                             </ul>
