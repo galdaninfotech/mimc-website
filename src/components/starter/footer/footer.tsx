@@ -100,8 +100,8 @@ export default component$(() => {
                                             <div class="separator transparent" style="margin-top:10px;margin-bottom:5px;"></div>
                                             <p style="margin:0;"><strong>MIMC Ladakh</strong>, P.O. Box No 22</p>
                                             <p style="margin:0;">Leh Ladakh 194101, India</p>
-                                            <p style="margin:0;"><i class="fas fa-envelope-open-text" style="color: #ff5300; margin-right: 8px;"></i><a href="mailto:mahabodhiladakh@gmail.com">mahabodhiladakh@gmail.com</a></p>
-                                            <p style="margin:0;"><i class="fas fa-phone-square" style="color: #ff5300; margin-right: 8px;"></i><a href="tel:mahabodhiladakh@gmail.com">91-19 82-264372</a></p>
+                                            <p style="margin:0;"><i class="fas fa-envelope-open-text" style="color: #ff5300; margin-right: 8px;"></i><a href="mailto:infomimc@gmail.com">infomimc@gmail.com</a></p>
+                                            <p style="margin:0;"><i class="fas fa-phone-square" style="color: #ff5300; margin-right: 8px;"></i><a href="tel:8899194610">+91-8899194610</a></p>
                                             <p style="margin:0;"><i class="fas fa-fax" style="color: #ff5300; margin-right: 8px;"></i><a href="fax:mahabodhiladakh@gmail.com">91-1982-264155</a></p>
                                         </div>
                                     </div>

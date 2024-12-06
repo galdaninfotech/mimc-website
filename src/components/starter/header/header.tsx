@@ -84,7 +84,7 @@ export default component$(() => {
                                         <li id="nav-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/charitable-organization" class=""><i class="menu_icon blank"></i><span></span>Charitable organization</a></li>
                                         <li id="nav-menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/registration-number" class=""><i class="menu_icon blank"></i><span></span>Registration Number</a></li>
                                         <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/location" class=""><i class="menu_icon blank"></i><span></span>Location</a></li>
-                                        <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/photo-gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
                                         <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/upcoming-events" class=""><i class="menu_icon blank"></i><span></span>Upcoming Events</a></li>
                                         <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/contact" class=""><i class="menu_icon blank"></i><span></span>Contact Us</a></li>
                                     </ul>
@@ -96,16 +96,11 @@ export default component$(() => {
                             <div class="second">
                                 <div class="inner">
                                     <ul>
-                                        <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-inout-transition/" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
-                                        <li id="nav-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As a child</a></li>
-                                        <li id="nav-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As an Indian Army</a></li>
-                                        <li id="nav-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>As a Monk (Ordination)</a></li>
-                                        <li id="nav-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As an Engaged Buddhist</a></li>
-                                        <li id="nav-menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Timeline</a></li>
-                                        <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Present & Past Designation</a></li>
-                                        <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Achievement & Awards</a></li>
-                                        <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
+                                        <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/about-founder" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
+                                        <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/past-present-designation" class=""><i class="menu_icon blank"></i><span></span>Present & Past Designation</a></li>
+                                        <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/achievement-awards" class=""><i class="menu_icon blank"></i><span></span>Achievement & Awards</a></li>
+                                        <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.facebook.com/Ven.Sanghasena?mibextid=ZbWKwL" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -251,11 +246,11 @@ export default component$(() => {
                                         <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Ways to sponsor</a></li>
                                         <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Find a person to sponsor</a></li>
                                         <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>More information</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>How we use your money</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Important request to sponsors</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Sponsorship Form</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact Sponsorship</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>How we use your money</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Important request to sponsors</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Sponsorship Form</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact Sponsorship</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -269,9 +264,9 @@ export default component$(() => {
                                         <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
                                         <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
                                         <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -285,9 +280,9 @@ export default component$(() => {
                                         <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
                                         <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
                                         <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -303,37 +298,34 @@ export default component$(() => {
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>Home</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-inout-transition/" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Login</a></li>
+                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/news" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
+                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/login" class=""><i class="menu_icon blank"></i><span></span>Login</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>About</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-inout-transition/" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction on MIMC</a></li>
-                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Our Motto</a></li>
-                                <li id="mobile-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>MIMC’s Timeline</a></li>
-                                <li id="mobile-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>Brief introduction of MIMC’s activities</a></li>
-                                <li id="mobile-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Charitable organization</a></li>
-                                <li id="mobile-menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Registration Number</a></li>
-                                <li id="mobile-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Location</a></li>
-                                <li id="mobile-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Upcoming Events</a></li>
+                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/about-founder" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction on MIMC</a></li>
+                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Our Motto</a></li>
+                                <li id="mobile-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>MIMC’s Timeline</a></li>
+                                <li id="mobile-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Brief introduction of MIMC’s activities</a></li>
+                                <li id="mobile-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/ggggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Charitable organization</a></li>
+                                <li id="mobile-menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/ggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Registration Number</a></li>
+                                <li id="mobile-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Location</a></li>
+                                <li id="mobile-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gggggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Upcoming Events</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>Founder President</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-inout-transition/" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
-                                <li id="nav-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As a child</a></li>
-                                <li id="nav-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As an Indian Army</a></li>
-                                <li id="nav-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>As a Monk (Ordination)</a></li>
-                                <li id="nav-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>As an Engaged Buddhist</a></li>
-                                <li id="nav-menu-item-1997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Timeline</a></li>
-                                <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Present & Past Designation</a></li>
-                                <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Achievement & Awards</a></li>
-                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
+                                <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/past-present-designation" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
+                                <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/past-present-designation" class=""><i class="menu_icon blank"></i><span></span>Present & Past Designation</a></li>
+                                <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/achievement-awards" class=""><i class="menu_icon blank"></i><span></span>Achievement & Awards</a></li>
+                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.facebook.com/Ven.Sanghasena?mibextid=ZbWKwL" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
                             </ul>
                         </li>
                         
@@ -370,6 +362,7 @@ export default component$(() => {
                                 </li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                             <a href="#" class=""><span>Education</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -421,6 +414,7 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2007" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sample-page-right-sidebar/" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                             <a href="#" class=""><span>Social Welfare</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -443,6 +437,7 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2007" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sample-page-right-sidebar/" class=""><i class="menu_icon blank"></i><span></span>Requirements</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>Sustainable Development</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -453,6 +448,7 @@ export default component$(() => {
                                 <li id="mobile-menu-item-1996" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Requirements</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>Sponsorship</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -460,13 +456,14 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Ways to sponsor</a></li>
                                 <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Find a person to sponsor</a></li>
                                 <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>For more information</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>How we use your money</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Important request to sponsors</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Sponsorship Form</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact Sponsorship</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>How we use your money</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Important request to sponsors</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Sponsorship Form</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact Sponsorship</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>Global Family</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -474,11 +471,12 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
                                 <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
                                 <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                             </ul>
                         </li>
+
                         <li id="mobile-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
                             <a href="/" class=" current "><span>IFBHL</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
@@ -486,9 +484,9 @@ export default component$(() => {
                                 <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
                                 <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
                                 <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-leftright-transition/" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="ggggggggggggggg" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
                             </ul>
                         </li>
                     </ul>

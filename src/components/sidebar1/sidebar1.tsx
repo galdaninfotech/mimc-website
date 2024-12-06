@@ -6,15 +6,6 @@ export default component$(() => {
 
   return (
     <>
-        <div id="search-4" class="widget widget_search posts_holder">
-            <form role="search" method="get" id="searchform" class="searchform" action="https://mahabodhi=ladakh.com/subway/">
-                <div>
-                    <label class="screen-reader-text" for="s">Search for:</label>
-                    <input type="text" value="" name="s" id="s" placeholder="SEARCH HERE" class="placeholder" />
-                    <input type="submit" id="searchsubmit" value="Search" />
-                </div>
-            </form>
-        </div>
         <div id="recent-posts-4" class="widget widget_recent_entries posts_holder">
             <h4>Recent Posts</h4>
             <ul>
@@ -39,8 +30,11 @@ export default component$(() => {
             <h4>Categories</h4>
             <ul>
                 <li class="cat-item cat-item-2"><a href="https://mahabodhi=ladakh.com/subway/category/business/">Eduction</a></li>
-                <li class="cat-item cat-item-10"><a href="https://mahabodhi=ladakh.com/subway/category/sport/">Welfare</a></li>
                 <li class="cat-item cat-item-5"><a href="https://mahabodhi=ladakh.com/subway/category/photography/">Culture</a></li>
+                <li class="cat-item cat-item-10"><a href="https://mahabodhi=ladakh.com/subway/category/sport/">Welfare</a></li>
+                <li class="cat-item cat-item-5"><a href="https://mahabodhi=ladakh.com/subway/category/photography/">Health</a></li>
+                <li class="cat-item cat-item-5"><a href="https://mahabodhi=ladakh.com/subway/category/photography/">Meditation</a></li>
+                <li class="cat-item cat-item-5"><a href="https://mahabodhi=ladakh.com/subway/category/photography/">Yoga</a></li>
             </ul>    
         </div>
         <div id="tag_cloud-3" class="widget widget_tag_cloud posts_holder">
