@@ -12,9 +12,9 @@ export default component$(() => {
                 <div class="title_holder" style="opacity: 1;">
                     <div class="container">
                         <div class="container_inner clearfix" style="padding: 0;">
-                            <h1 style="padding: 0; margin: 0;">Courses At Sambodhi Retreat Centre</h1>
+                            <h1 style="padding: 0; margin: 0;">Facilities At Sambodhi Retreat Centre</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Courses At Sambodhi Retreat Centre</span></div>
+                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Facilities At Sambodhi Retreat Centre</span></div>
                             </div>
                         </div>
                     </div>
@@ -39,17 +39,18 @@ export default component$(() => {
                                                             </div>
 
                                                             <p>
-                                                                The Sambodhi Retreat Centre offers both short and long duration <strong>meditation courses</strong> with <strong>yoga classes</strong>.
+                                                                The Centre is blessed with a beautiful meditation hall; separate dormitories which can accommodate 40-50 male and female residents at a time; a delightful dining hall for more than 50 people and a beautiful garden where meditators can practice walking meditation and yoga or simply rest on the lawn under many fruits trees.
                                                             </p>
 
                                                             <p>
-                                                                The tremendously popular and highly successful <strong>three-day meditation courses</strong> are regularly scheduled throughout the summer months and we receive incredibly positive and encouraging feedback from all those who have attended.
+                                                                It is also intriguing to see different types of birds wandering in the garden and among the trees.
                                                             </p>
 
                                                             <p>
-                                                                The Sambodhi Retreat Centre continues to harmoniously develop and gracefully evolve with time and we welcome all, whether one is a <strong>beginner</strong> or <strong>experienced practitioner</strong> to the Centre.
+                                                                In addition to the spacious accommodation and the first-rate facilities for groups, the Sambodhi Retreat Centre has a number of comfortable meditation kutis (with attached bathroom, small kitchen, bedroom and meditation room) for experienced solitary practitioners.
                                                             </p>
 
+                                                            
 
 
 
@@ -80,11 +81,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Courses At Sambodhi Retreat Centre',
+  title: 'Facilities At Sambodhi Retreat Centre',
   meta: [
     {
       name: 'description',
-      content: 'Courses At Sambodhi Retreat Centre',
+      content: 'Facilities At Sambodhi Retreat Centre',
     },
   ],
 };
