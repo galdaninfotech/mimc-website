@@ -51,7 +51,7 @@ export default component$(() => {
                                                                     <span><strong>Kontakt: Steffen Wendt</strong></span>
                                                                     <span>Uttenbühl 5</span>
                                                                     <span>87466 Oy-Mittelberg</span>
-                                                                    <span>E-Mail: hilfsprojekt.ladakh@buddha-haus.de</span>
+                                                                    <span>E-Mail:hilfsprojekt.ladakh@buddha-haus.de</span>
                                                                     <span>https://www.buddha-haus.de/mahabodhi-hilfsprojekt</span>
                                                                 </p>
                                                             </div>
@@ -63,7 +63,7 @@ export default component$(() => {
                                                                     <span><strong>Kontakt: Steffen Wendt</strong></span>
                                                                     <span>Uttenbühl 5</span>
                                                                     <span>87466 Oy-Mittelberg</span>
-                                                                    <span>E-Mail: hilfsprojekt.ladakh@buddha-haus.de</span>
+                                                                    <span>E-Mail:hilfsprojekt.ladakh@buddha-haus.de</span>
                                                                     <span>https://www.buddha-haus.de/mahabodhi-hilfsprojekt</span>
                                                                 </p>
                                                             </div>

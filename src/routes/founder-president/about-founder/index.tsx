@@ -16,7 +16,7 @@ export default component$(() => {
                             <div class="breadcrumb">
                                 <div class="breadcrumbs">
                                     <a href="/">Home</a>
-                                    <span class="delimiter">&gt;</span><span class="current">About</span>
+                                    <span class="delimiter">&gt;</span><span class="current">Founder President</span>
                                     <span class="delimiter">&gt;</span><span class="current">The Founder</span>
                                 </div>
                             </div>
