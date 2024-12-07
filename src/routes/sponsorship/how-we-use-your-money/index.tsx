@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">How We Use Your Money</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">How We Use Your Money</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">How We Use Your Money</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -37,6 +41,16 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="How We Use Your Money" />
                                                             </div>
+
+                                                            <p>Diagramm fehlt!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+                                                            <div class="list number">
+                                                                <ul>
+                                                                    <li>Sponsoring (a) a child at the hostel (b) monk/nun (c) visually impaired child including all expenses for a year (both school and hostel fees) in Leh USD 700 per year.</li>
+                                                                    <li>Sponsoring an inmate at the old age home-USD 450 per year.</li>
+                                                                    <li>Sponsoring the education of a day scholar a child from our branch schools at Tinsmosgang and Bodhkharbu villages- USD 300 per year.</li>
+                                                                </ul>
+                                                            </div>
+
 
                                                             
 

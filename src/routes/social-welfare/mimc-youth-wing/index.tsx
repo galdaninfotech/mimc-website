@@ -41,6 +41,16 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="MIMC Youth Wing" />
                                                             </div>
+                                                            <span class="dropcap">T</span>
+                                                            <p>he aim of the MIMC Youth Wing is to help groom the youths with moral, cultural and traditional values and strengthening them to create a better tomorrow. </p>
+
+                                                            <p>The Youth Wing also runs a Basic Buddhism Course (BBC) for students from different Schools of Leh. The Wing also has a musical band Luyangs comprising of the ex-students of Mahabodhi School performing Buddhist musical numbers.</p>
+
+                                                            <p>The youth members have also formed the Devachan Sporting Club that participates at various local sporting tournaments held at Leh.</p>
+
+                                                            <p>It gives members a platform where they can pursue their interest in sports and music so to grow both physical and mental harmoniously.</p>
+
+
 
                                                             
                                                         

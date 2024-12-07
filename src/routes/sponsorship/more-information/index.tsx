@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">More Information</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">More Information</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">More Information</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -37,6 +41,19 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="More Information" />
                                                             </div>
+
+                                                            <p>Please contact our main office:</p>
+                                                            <p>
+                                                                <span><strong>Secretary General</strong></span>
+                                                                <span><strong>Mahabodhi Int'l Meditation Centre</strong></span>
+                                                                <span>Devachan, Post Box #22,</span>
+                                                                <span>Leh Ladakh—194101, INDIA</span>
+                                                                <span>Tel: +91-1982-264372</span>
+                                                                <span>mimcdevachen@hotmail.com</span>
+                                                                <span>www.mahabodhi-ladakh.org</span>
+                                                                <span>Facebook Mahabodhi Sponsorship</span>
+                                                            </p>
+
 
                                                             
 

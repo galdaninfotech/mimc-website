@@ -12,8 +12,13 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Contact For Sponsorship</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="https://mahabodhi=ladakh.com/subway/">Home</a><span class="delimiter">&gt;</span><span class="current">Contact For Sponsorship</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">Contact Us</span>
+                                </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>

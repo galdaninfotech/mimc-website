@@ -1,13 +1,24 @@
-.list.number ul {
-    counter-reset: li;
-    margin-left: 20px;
-    margin-top: 20px;
+h2 {
+    color: black;
+    font-size: 18px;
 }
-.list.circle ul>li, .list.number ul>li, .ordered ol li {
-    font-size: 15px;
-    font-family: PT Sans, sans-serif;
-    font-size: 13px;
-    line-height: 20px;
-    font-weight: 300;
-    margin: -8px 0 18px;
+
+.sponsors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px dotted #000;
+
+}
+
+.sponsors img {
+    width: 200px;
+
+}
+.sponsors p  span{
+    display: block;
+
+}
+.sponsors p.address {
+    margin-left: 10px;
 }

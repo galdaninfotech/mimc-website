@@ -43,14 +43,9 @@ export default component$(() => {
                                                                 <img src="/images/about/our-motto.jpg" alt="Brief Introduction" />
                                                             </div>
 
-                                                            <span class="dropcap" style="">V</span>
+                                                            <span class="dropcap" style="">F</span>
                                                             <p>
-                                                                enerable Bhikkhu Sanghasena was born in the remote Himalayan region of Ladakh, in the Northwest of India, high on the Tibetan plateau. He was brought up within a deeply religious family, amongst people who followed the ancient Buddhist traditions and believed in peacefulness, humility and innocence as the natural way of life. At the age of seventeen he joined the Indian Army, where he developed a strong sense of personal discipline and responsibility.
-                                                            </p>
-                                                            <p>&nbsp;</p>
-
-                                                            <p>
-                                                                Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small ri
+                                                                ar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small ri
                                                                 ver named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
                                                             </p><p>&nbsp;</p>
 

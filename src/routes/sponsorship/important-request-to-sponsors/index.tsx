@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Important Request To Sponsors</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Important Request To Sponsors</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">Important Request To Sponsors</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -37,6 +41,16 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="Important Request To Sponsors" />
                                                             </div>
+
+                                                            <p>We earnestly request all the sponsors please not to send money</p>
+                                                            <div class="list">
+                                                                <ul>
+                                                                    <li><i class="fa fa-dharmachakra"></i>expensive items in the letters</li>
+                                                                    <li><i class="fa fa-dharmachakra"></i>parcels for your wards, as there are many cases in which letters</li>
+                                                                    <li><i class="fa fa-dharmachakra"></i>parcels are opened on the way.</li>
+                                                                </ul>
+                                                            </div>
+
 
                                                             
 

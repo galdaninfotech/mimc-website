@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Ways To Sponsor</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Ways To Sponsor</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">Ways To Sponsor</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -37,6 +41,21 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="Ways To Sponsor" />
                                                             </div>
+
+                                                            <h2>Sponsoring a Child from the Hostel</h2>
+                                                            <p>Thank you for helping make a miracle happen for a very special child! Your sponsorship will make a difference and help break this terrible cycle of poverty. By becoming a sponsor you can make an immediate difference in a child's life and see tangible results.</p>
+
+                                                            <h2>Sponsoring a young monk / nun</h2>
+                                                            <p>We take this opportunity to earnestly appeal to all generous-minded brothers and sisters to help implement the nunnery. We also need funds for the expansion of the physical facilities such as a dining hall, classrooms and accommodations to take in more nuns in the future.</p>
+
+                                                            <h2>Sponsoring a Day-Boarder / child from our Branch Schools</h2>
+                                                            <p>The School also has many students on its day-boarder's list and also students studying at our Branch Schools in Tinsmosgang and Bodhkharbu villages who come from very poor families.</p>
+
+                                                            <h2>Sponsoring an Aged and Destitute</h2>
+                                                            <p>The inmates of Mahabodhi Home for the Aged and Destitute are very humble and easy to support with a few requirements. Nevertheless, apart from the basic needs like clothing, shelter, food and medicine, Mahabodhi wishes to provide the inmates of the Home with good facilities to protect them from the rough climate of Ladakh and provide them a safe and warm surrounding. Some of the inmates are urgently in need of better medical facilities like wheel chair, mobile toilet chair or spectacles.</p>
+
+                                                            <p>By supporting one of the inmates through a sponsorship a lot of improvements can be done and your kind help enables an old person to enjoy the last part of his/her life in a very peaceful and suitable surrounding.</p>
+
 
                                                             
 

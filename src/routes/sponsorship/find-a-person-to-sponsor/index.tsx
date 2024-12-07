@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Find A Person To Sponsor</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Find A Person To Sponsor</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Sponsorship</a><span class="delimiter">&gt;</span>
+                                    <span class="current">Find A Person To Sponsor</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -37,6 +41,19 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="Find A Person To Sponsor" />
                                                             </div>
+
+                                                            <p>If you decide to sponsor a child for more than a year, you will be entitled to become a member of the Bridge Program.</p>
+                                                            <p>Benefits of this program include:</p>
+                                                            <div class="list number">
+                                                                <ul>
+                                                                    <li>Letters from your child and an updated photo & academic report card each year.</li>
+                                                                    <li>The opportunity to write to your child as often as you like, as well as send birthday and other presents.</li>
+                                                                    <li>Learning about Buddhist philosophy and meditation at the Mahabodhi International Meditation Centre.</li>
+                                                                    <li>Receiving personalized correspondence from your sponsored child and regular updates of his/her academic progress.</li>
+                                                                </ul>
+                                                            </div>
+                                                            <p>We pledge that your donation will be utilized judiciously for the purpose it is meant for. If you decide to sponsor a child, we will send you the child's case history and photograph. Funds are also needed for the expansion of school and hostel facilities to accommodate more children.</p>
+
 
                                                             
 

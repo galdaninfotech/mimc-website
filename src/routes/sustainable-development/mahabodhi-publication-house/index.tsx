@@ -42,6 +42,18 @@ export default component$(() => {
                                                                 <img src="/images/about/our-motto.jpg" alt="Mahabodhi Publication House" />
                                                             </div>
 
+                                                            <span class="dropcap">I</span>
+
+                                                            <p>n today's world of information, the media plays a crucial role in creating greater awareness in both the local as well as in global scenario.</p>
+
+                                                            <p>Therefore, the media becomes an important part of any organization in promoting awareness on its various activities and thereby generating proper understanding in the minds of the interested individuals, especially the information shared are transparent and truthful in their own right.</p>
+
+                                                            <p>Keeping these views in mind, Mahabodhi Publication Office was first established under the leadership of Ven. Sanghasena, solely aiming at bringing awareness to the greater community on the various spiritual and humanitarian activities undertaken by MIMC organization to uplift the spiritual and material conditions of the people in Ladakh.</p>
+
+                                                            <p>The sole aim of this project is to create a self sustainable development in bringing about gains inboth the spiritual and material perspectives in the long run.</p>
+
+
+
                                                             
                                                         
                                                             

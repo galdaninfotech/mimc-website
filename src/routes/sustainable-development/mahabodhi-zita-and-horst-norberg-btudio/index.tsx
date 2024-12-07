@@ -42,6 +42,16 @@ export default component$(() => {
                                                                 <img src="/images/about/our-motto.jpg" alt="Mahabodhi Zita and Horst Norberg Studio" />
                                                             </div>
 
+                                                            <p>The Mahabodhi organization believes in presenting Ladakh’s culture and Buddhist history through cinema.</p>
+                                                            MIMC Zita and Horst Norbert studio aims in producing documentaries and films on the Mahabodhi community, Ladakh and Buddhist related videos, creates videos and audios for the promotion of rich Ladakh art & culture giving opportunities to the budding talent of Ladakh to pursue careers in such areas.
+ 
+                                                            <p>We are trying to produce many traditional music, hymn, and chanting and recordings for that we are seeking some financial assistance from the Govt. and well wishers.</p>
+ 
+                                                            <p>We are also encouraging our students especially the drop out ones to take part in this lively extracurricular activity.</p>
+ 
+                                                            <p>Apart from the direction for the self sustenance, this studio will be boon to school dropout students to showcase their talents.</p>
+
+
                                                             
                                                         
                                                             
