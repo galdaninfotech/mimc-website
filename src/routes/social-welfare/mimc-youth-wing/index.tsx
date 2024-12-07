@@ -39,7 +39,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="MIMC Youth Wing" />
+                                                                <img src="/images/social-welfare/mimc-youth-wing.jpg" alt="MIMC Youth Wing" />
                                                             </div>
                                                             <span class="dropcap">T</span>
                                                             <p>he aim of the MIMC Youth Wing is to help groom the youths with moral, cultural and traditional values and strengthening them to create a better tomorrow. </p>

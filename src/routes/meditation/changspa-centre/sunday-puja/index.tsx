@@ -41,7 +41,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Brief Introduction" />
+                                                                <img src="/images/meditation/changspa-centre/sunday-puja.jpg" alt="Brief Introduction" />
                                                             </div>
 
                                                             <p>MIMC organizes a very special program for the foreign, national and local visitors, seeker of truth and lover of peace on Sunday as all the staffs, students, grandparents and the residents of Mahabodhi come together in the beautiful Buddha hall and listen to the beautiful Dhamma talk of Venerable Bhikkhu Sanghasena, practice meditation together under a very holy and positive atmosphere, share the joy of Dhamma and witness the stunning Dhamma songs from the elderly people, young monks and nuns, boys and girls of MIMC.</p>

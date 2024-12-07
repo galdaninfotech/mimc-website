@@ -40,7 +40,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Introduction" />
+                                                                <img src="/images/social-welfare/old-age-home/introduction.jpg" alt="Introduction" />
                                                             </div>
 
                                                             

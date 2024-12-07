@@ -40,7 +40,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Brief Introduction" />
+                                                                <img src="/images/meditation/sambodhi-retreat-centre/courses.jpg" alt="Brief Introduction" />
                                                             </div>
 
                                                             <p>The Sambodhi Retreat Centre offers both short and long duration meditation courses with yoga classes.</p>

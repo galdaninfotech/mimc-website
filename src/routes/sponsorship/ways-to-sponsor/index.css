@@ -2,3 +2,10 @@ h2 {
     color: black;
     font-size: 18px;
 }
+
+.list.number ul li span {
+    color: black;
+}
+.list.number ul li p {
+    font-family: PT Sans, sans-serif;
+}

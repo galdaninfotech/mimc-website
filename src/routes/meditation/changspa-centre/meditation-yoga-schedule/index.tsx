@@ -40,7 +40,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Brief Introduction" />
+                                                                <img src="/images/meditation/changspa-centre/meditation-yoga-schedule.jpg" alt="Brief Introduction" />
                                                             </div>
 
                                                             <p>The Schedue for Yoga and Meditation sessions and courses at our City centre will be out soon...</p>

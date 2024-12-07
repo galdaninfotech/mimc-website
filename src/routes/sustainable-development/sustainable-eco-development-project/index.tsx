@@ -39,7 +39,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Sustainable Eco-development Project" />
+                                                                <img src="/images/sustainable-development/sustainable-eco-development-project.jpg" alt="Sustainable Eco-development Project" />
                                                             </div>
 
                                                             

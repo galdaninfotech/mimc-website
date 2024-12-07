@@ -250,33 +250,33 @@ export default component$(() => {
                             </div>
                         </li>
                         <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Global Family</a>
-                            <div class="second">
-                                <div class="inner">
-                                    <ul>
-                                        <li id="nav-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
-                                        <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/aims-and-objecyives" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
-                                        <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/past-ifbhl" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
-                                        <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/news" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/programs" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </li>
-                        <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
                             <a href="#" class=""><i class="menu_icon blank"></i><span></span>IFBHL</a>
                             <div class="second">
                                 <div class="inner">
                                     <ul>
                                         <li id="nav-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
-                                        <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/services" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
-                                        <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/tariff" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
-                                        <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/online-booking" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
+                                        <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/aims-and-objecyives" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
+                                        <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/past-ifbhl" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
+                                        <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/news" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
                                         <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/programs" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
                                         <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
-                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/availability" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </li>
+                        <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
+                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Global Family</a>
+                            <div class="second">
+                                <div class="inner">
+                                    <ul>
+                                        <li id="nav-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
+                                        <li id="nav-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/services" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
+                                        <li id="nav-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/tariff" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
+                                        <li id="nav-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/online-booking" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                        <li id="nav-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/availability" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -451,28 +451,28 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>Global Family</span><span class="mobile_arrow"></span></a>
+                            <a href="/" class=" current "><span>IFBHL</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
-                                <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/aims-and-objecyives" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
-                                <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/past-ifbhl" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
-                                <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/news" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/programs" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
+                                <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/aims-and-objecyives" class=""><i class="menu_icon blank"></i><span></span>Aims And Objectives</a></li>
+                                <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/past-ifbhl" class=""><i class="menu_icon blank"></i><span></span>Past IFBHL</a></li>
+                                <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/news" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/programs" class=""><i class="menu_icon blank"></i><span></span>Programs</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                             </ul>
                         </li>
 
                         <li id="mobile-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>IFBHL</span><span class="mobile_arrow"></span></a>
+                            <a href="/" class=" current "><span>Global Family</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
-                                <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/services" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
-                                <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/tariff" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
-                                <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/online-booking" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
-                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/ifbhl/availability" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
+                                <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
+                                <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/services" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>
+                                <li id="mobile-menu-item-2374" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/tariff" class=""><i class="menu_icon blank"></i><span></span>Tariff</a></li>
+                                <li id="mobile-menu-item-2373" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/online-booking" class=""><i class="menu_icon blank"></i><span></span>Online booking</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                <li id="mobile-menu-item-2371" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/availability" class=""><i class="menu_icon blank"></i><span></span>Availability</a></li>
                             </ul>
                         </li>
                     </ul>

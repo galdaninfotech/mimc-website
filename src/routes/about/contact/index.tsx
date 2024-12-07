@@ -13,7 +13,7 @@ export default component$(() => {
                             <h1 style="padding: 0; margin: 0;">Contact Us</h1>
                             <div class="breadcrumb">
                                 <div class="breadcrumbs">
-                                    <a href="https://mahabodhi=ladakh.com/subway/">Home</a>
+                                    <a href="#">Home</a>
                                     <span class="delimiter">&gt;</span><span class="current">About</span>
                                     <span class="delimiter">&gt;</span><span class="current">Contact Us</span>
                                 </div>

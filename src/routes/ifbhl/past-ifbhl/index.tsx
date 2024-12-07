@@ -12,12 +12,12 @@ export default component$(() => {
                 <div class="title_holder" style="opacity: 1;">
                     <div class="container">
                         <div class="container_inner clearfix" style="padding: 0;">
-                            <h1 style="padding: 0; margin: 0;">Tariff</h1>
+                            <h1 style="padding: 0; margin: 0;">Past IFBHL</h1>
                             <div class="breadcrumb">
                                 <div class="breadcrumbs">
                                     <a href="/">Home</a><span class="delimiter">&gt;</span>
                                     <a href="/">IFBHL</a><span class="delimiter">&gt;</span>
-                                    <span class="current">Tariff</span>
+                                    <span class="current">Past IFBHL</span>
                                 </div>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Tariff" />
+                                                                <img src="/images/about/our-motto.jpg" alt="Past IFBHL" />
                                                             </div>
 
                                                             
@@ -83,11 +83,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Tariff',
+  title: 'Past IFBHL',
   meta: [
     {
       name: 'description',
-      content: 'Tariff',
+      content: 'Past IFBHL',
     },
   ],
 };

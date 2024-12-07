@@ -39,7 +39,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Mahabodhi Zita and Horst Norberg Studio" />
+                                                                <img src="/images/sustainable-development/mahabodhi-zita-and-horst-norberg-btudio.jpg" alt="Mahabodhi Zita and Horst Norberg Studio" />
                                                             </div>
 
                                                             <p>The Mahabodhi organization believes in presenting Ladakh's culture and Buddhist history through cinema.</p>

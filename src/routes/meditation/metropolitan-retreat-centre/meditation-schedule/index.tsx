@@ -41,7 +41,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="Brief Introduction" />
+                                                                <img src="/images/meditation/metropolitan-retreat-centre/meditation-schedule.jpg" alt="Meditation Schedule" />
                                                             </div>
 
                                                             <p>We have been organizing a series of meditation programs in other parts of the country, namely Delhi, Chandigarh and Jammu during the winter season.</p>
