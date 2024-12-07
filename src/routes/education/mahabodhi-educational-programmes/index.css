@@ -1,0 +1,15 @@
+blockquote {
+    quotes: none;
+    width: 40%;
+    float: left;
+    padding: 12px 25px;
+    margin: 0 20px 15px 0;
+    position: relative;
+}
+blockquote div {
+    float: right;
+}
+ul li i {
+    color: #ff5300;
+    margin-right: 8px;
+}

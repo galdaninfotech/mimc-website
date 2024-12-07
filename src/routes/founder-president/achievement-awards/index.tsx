@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Achievement & Awards</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Achievement & Awards</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a>
+                                    <span class="delimiter">&gt;</span><span class="current">Founder President</span>
+                                    <span class="delimiter">&gt;</span><span class="current">Achievement & Awards</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -44,9 +48,9 @@ export default component$(() => {
                                                                     <label class="timeline-event-icon"></label>
                                                                     <div class="timeline-event-copy">
                                                                         <p class="timeline-event-thumbnail">1999</p>
-                                                                        <h4>Included In The Prestigious Book “Marquis’ Who’s Who”</h4>
+                                                                        <h4>Included In The Prestigious Book “Marquis' Who's Who”</h4>
                                                                         <p>
-                                                                            Ven. Sanghasena’s name was included in the prestigious book “Marquis’ Who’s Who”, which believes that men and women around the globe, whose achievements influence people of today, are worthy of permanent record.
+                                                                            Ven. Sanghasena's name was included in the prestigious book “Marquis' Who's Who”, which believes that men and women around the globe, whose achievements influence people of today, are worthy of permanent record.
                                                                         </p>
                                                                     </div>
                                                                 </li>
@@ -113,7 +117,7 @@ export default component$(() => {
 
                                                                         <h3>Rajiv Gandhi Award</h3>
                                                                         <p>
-                                                                            Rajiv Gandhi Award 2006 was presented to Ven. Sanghasena by Hon’ble Chief Minister of J&K State, Jenab Ghulam Nabi Azad, in May 2006 at Chashma Shahi Bagh, Srinagar.
+                                                                            Rajiv Gandhi Award 2006 was presented to Ven. Sanghasena by Hon'ble Chief Minister of J&K State, Jenab Ghulam Nabi Azad, in May 2006 at Chashma Shahi Bagh, Srinagar.
                                                                         </p>
 
                                                                     </div>

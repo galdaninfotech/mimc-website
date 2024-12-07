@@ -15,7 +15,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Registration Number</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="https://mahabodhi=ladakh.com/">Home</a><span class="delimiter">&gt;</span><span class="current">Registration Number</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="https://mahabodhi=ladakh.com/">Home</a>
+                                    <span class="delimiter">&gt;</span><span class="current">About</span>
+                                    <span class="delimiter">&gt;</span><span class="current">Registration Number</span>
+                                </div>
                             </div>
                         </div>
                     </div>

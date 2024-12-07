@@ -1,0 +1,13 @@
+.list.number ul {
+    counter-reset: li;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.list.circle ul>li, .list.number ul>li, .ordered ol li {
+    font-size: 15px;
+    font-family: PT Sans, sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 300;
+    margin: -8px 0 18px;
+}

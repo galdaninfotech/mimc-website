@@ -13,9 +13,13 @@ export default component$(() => {
                 <div class="title_holder" style="opacity: 1;">
                     <div class="container">
                         <div class="container_inner clearfix" style="padding: 0;">
-                            <h1 style="padding: 0; margin: 0;">A Brief Introduction Activities of MIMC</h1>
+                            <h1 style="padding: 0; margin: 0;">A Brief Introduction To  The Activities of MIMC</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="https://mahabodhi=ladakh.com/">Home</a><span class="delimiter">&gt;</span><span class="current">A Brief Introduction Activities of MIMC</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="https://mahabodhi=ladakh.com/">Home</a>
+                                    <span class="delimiter">&gt;</span><span class="current">About</span>
+                                    <span class="delimiter">&gt;</span><span class="current">A Brief Introduction To  The Activities of MIMC</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -36,7 +40,7 @@ export default component$(() => {
 
                                                             <div class="image_with_text_over" style="margin-bottom: 50px;">
                                                                 <div class="shader"></div>
-                                                                <img src="/images/about/our-motto.jpg" alt="A Brief Introduction Activities of MIMC" />
+                                                                <img src="/images/about/our-motto.jpg" alt="A Brief Introduction To  The Activities of MIMC" />
                                                             </div>
 
                                                             <div class="list number">
@@ -198,11 +202,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'A Brief Introduction Activities of MIMC',
+  title: 'A Brief Introduction To  The Activities of MIMC',
   meta: [
     {
       name: 'description',
-      content: 'A Brief Introduction Activities of MIMC',
+      content: 'A Brief Introduction To  The Activities of MIMC',
     },
   ],
 };

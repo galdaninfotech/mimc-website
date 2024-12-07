@@ -14,8 +14,14 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Schedule For The Meditation Programs</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="/">Home</a><span class="delimiter">&gt;</span><span class="current">Schedule For The Meditation Programs</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="/">Home</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Meditation</a><span class="delimiter">&gt;</span>
+                                    <a href="/">Metropolitan Retreat Centre</a><span class="delimiter">&gt;</span>
+                                    <span class="current">Meditation Schedule</span>
+                                </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>

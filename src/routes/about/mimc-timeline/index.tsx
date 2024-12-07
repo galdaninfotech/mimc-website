@@ -14,7 +14,11 @@ export default component$(() => {
                         <div class="container_inner clearfix" style="padding: 0;">
                             <h1 style="padding: 0; margin: 0;">Timeline of MIMC</h1>
                             <div class="breadcrumb">
-                                <div class="breadcrumbs"><a href="https://mahabodhi=ladakh.com/">Home</a><span class="delimiter">&gt;</span><span class="current">Timeline of MIMC</span></div>
+                                <div class="breadcrumbs">
+                                    <a href="https://mahabodhi=ladakh.com/">Home</a>
+                                    <span class="delimiter">&gt;</span><span class="current">About</span>
+                                    <span class="delimiter">&gt;</span><span class="current">Timeline of MIMC</span>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -123,7 +127,7 @@ export default component$(() => {
 
                                                                         <h3>Mahabodhi Boys Hostel</h3>
                                                                         <p>
-                                                                            Established the ⦁	Mahabodhi Boys Hostel, dedicated to providing holistic education and a safe home environment for under-privileged boys from remote homesteads scattered across Ladakh. At present, there are some 150 boys living in this hostel.
+                                                                            Established the Mahabodhi Boys Hostel, dedicated to providing holistic education and a safe home environment for under-privileged boys from remote homesteads scattered across Ladakh. At present, there are some 150 boys living in this hostel.
                                                                         </p>
 
                                                                         <h3>Mahabodhi New Delhi Branch.</h3>
@@ -161,7 +165,7 @@ export default component$(() => {
                                                                         <p class="timeline-event-thumbnail">1999</p>
                                                                         <h3>Mahabodhi Branch School</h3>
                                                                         <p>
-                                                                            Founded the ⦁	Mahabodhi Branch School in ⦁	Tingmosgang village, dedicated to providing high-quality holistic education to students in this remote rural location, where at present some 150 students attend each day.
+                                                                            Founded the Mahabodhi Branch School in Tingmosgang village, dedicated to providing high-quality holistic education to students in this remote rural location, where at present some 150 students attend each day.
                                                                         </p>
                                                                     </div>
                                                                 </li>
@@ -176,8 +180,118 @@ export default component$(() => {
                                                                         </p>
                                                                     </div>
                                                                 </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2002</p>
+                                                                        <h3>Acharya Buddharakkhita Humanitarian Award</h3>
+                                                                        <p>
+                                                                            Constituted the "Acharya Buddharakkhita Humanitarian Award" - awarded to those noble citizens, whose service to the poorest and most marginalized communities warrants both praise and recognition. The late Kushok Bakula Rinpoche (Head Lama of Ladakh), Shri. Thupstan Tsewang (Former Honourable Member of Parliament for Ladakh), Shri. B.K. Modi (Chairman and Founder of Spice Global India) & Lamdon Social Welfare, Leh are amongst the list of award recipients.
+                                                                        </p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2003</p>
+                                                                        <h3>Mahabodhi Home for the Aged and Destitute</h3>
+                                                                        <p>
+                                                                            Established the Mahabodhi Home for the Aged and Destitute, a pioneering project dedicated to providing a safe residential home, personal and social care, and respect for the most vulnerable members of Ladakhi society.
+                                                                        </p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2004</p>
+                                                                        <h3>Mahabodhi Jetavana Monastery</h3>
+                                                                        <p>
+                                                                            Established the Mahabodhi Jetavana Monastery, dedicated to providing both traditional spiritual and modern-based education to young monks.
+                                                                        </p>
+                                                                    
+                                                                        <h3>International Association for Religious Freedom (IARF) and the International Association of Liberal Religious Women(IALRW)</h3>
+                                                                        <p>
+                                                                            Venerable Bhikkhu Sanghasena has been an active member of the International Association for Religious Freedom (IARF) and the International Association of Liberal Religious Women(IALRW), actively participating in their conferences in Italy, Hungary, South Korea and various parts of India. Besides this, he has also organised various interfaith meetings, seminars and dialogues aimed at promoting greater understanding and peace throughout the region.
+                                                                        </p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2005</p>
+                                                                        <h3>international Grand Buddha Jayanti Celebration</h3>
+                                                                        <p>
+                                                                            Organised an international Grand Buddha Jayanti Celebration to commemorate the 2550th Buddha's birthday, at which Dr. A.P.J. Abdul Kalam (His Excellency the then President of India), Lt Gen. S.K. Sinha (the then Honourable Governor of Jammu & Kashmir), Shri. Ghulam Nabi Azad (the then Honourable Chief Minister of Jammu & Kashmir) were present. Many eminent dignitaries from different countries, as well as monks and nuns, participated in this week long celebration. Street campaigns advocating the eradication of animal abuse, alcohol, cigarette smoking and the taking of other intoxicating materials were organised. In addition, a large-scale peace march was organised.
+                                                                        </p>
+
+                                                                         <h3>Mahabodhi Elder Women's Literacy Programme</h3>
+                                                                         <p>
+                                                                            Established the Mahabodhi Elder Women's Literacy Programme, dedicated to providing basic education and empowerment for elderly women across the Ladakh region. 
+                                                                         </p>
+
+                                                                         <h3>First school and hostel for blind and visually-impaired students in Ladakh</h3>
+                                                                         <p>Established the first school and hostel for blind and visually-impaired students in Ladakh, which was inaugurated by His Excellency Dr. A.P.J. Abdul Kalam (the then President of India), in the presence of His Excellency the Governor and the Honourable Chief Minister of Jammu and Kashmir.</p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2006</p>
+                                                                        <h3>Mahabodhi Branch School in Bodhkharbu</h3>
+                                                                        <p>
+                                                                            Established the Mahabodhi Branch School in Bodhkharbu, dedicated to providing high quality holistic education for students living in this remote and under-developed village in the Kargil district of Ladakh.
+                                                                        </p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2007</p>
+                                                                        <h3>Mahabodhi Vocational Training Programme</h3>
+                                                                        <p>
+                                                                            Established the Mahabodhi Vocational Training Programme, a pioneering project dedicated to providing a practical vocational platform for school drop-outs, enabling them to develop and exhibit their talents in music, traditional woodcarving and painting, as well as providing them with a vital means of generating income.
+                                                                        </p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2008</p>
+                                                                        <h3>Mahabodhi Branch in Jammu district</h3>
+                                                                        <p>
+                                                                            Established the Mahabodhi Branch in Jammu district, dedicated to fostering and promoting social and mental harmony, as well as world peace.
+                                                                        </p>
+
+                                                                        <h3>International Youth Sangha Conference</h3>
+                                                                        <p>09/2008 - Organised a 5-day International Youth Sangha Conference in association with the World Buddhist Sangha Council, whereupon representatives of the Theravada and Mahayana Buddhist traditions from different countries, including Taiwan, Sri Lanka, Malaysia and India, came together in order to promote greater understanding, universal brotherhood and world peace.</p>
+                                                                    </div>
+                                                                </li>
+
+                                                                <li class="timeline-event">
+                                                                    <label class="timeline-event-icon"></label>
+                                                                    <div class="timeline-event-copy">
+                                                                        <p class="timeline-event-thumbnail">2010</p>
+                                                                        <h3>International Buddhist Muslim Dialogue Conference</h3>
+                                                                        <p>
+                                                                            In collaboration with the Museum of World Religions, based in Taiwan, organised a 3-day International Buddhist Muslim Dialogue Conference in order to promote greater peace, harmony and friendship between the two most populous religions of Ladakh. His Holiness the Gyalwang Drukpa Rinpoche (Supreme Head of the Drukpa Lineage of Tibetan Buddhism), Shri. Nawang Rigzen Jora (Honourable Minister for Tourism and Culture, Jammu & Kashmir), Maulana Umair Ahmed Ilyasi, President, (All India Organisations of Imams of Mosques, New Delhi,) the President of the Ladakh Buddhist Association, the President of Anjuman Imamia, Leh, President Moin - ul- Islam, Leh, Shri. Asgar Ali Karbalai (Former Chief Executive Councillor, Kargil, LAHDC) and many other important dignitaries from the United States, Germany, Malaysia, Taiwan, France, Sri Lanka and India participated in this historic event. The students of various schools actively participated in this dialogue. Following this, all the participants visited and paid obeisance at the Leh Main Buddhist Temple, Leh Jamia Masjid, Leh Imambara and Imambara at Shey village.
+                                                                        </p>
+
+                                                                        <h3>Mahabodhi Meditation Centre Branch in Chandigarh</h3>
+                                                                        <p>Established the Mahabodhi Meditation Centre Branch in Chandigarh, dedicated to promoting social and mental harmony, and world peace.</p>
+
+                                                                        <h3>Mahabodhi Girls Hostel in Chandigarh</h3>
+                                                                        <p>Established the Mahabodhi Girls Hostel in Chandigarh, wherein 100 female students can be accommodated in a safe home environment where they can concentrate on their higher education studies.</p>
+                                                                    </div>
+                                                                </li>
                                                                                                                                 
-                                                                </ul>
+                                                            </ul>
 
                                                             
                                                             
