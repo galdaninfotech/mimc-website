@@ -39,7 +39,7 @@ export default component$(() => {
                                                                         <div class="box_image_with_border" style="color:black;">
                                                                             <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/13.jpg" alt="VISUAL PAGE BUILDER" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 26%; top: 26%" class="fas fa-praying-hands"></i></span></span></div>
                                                                             <h3 style="color:black; font-size: 18px; text-transform: uppercase">Founder</h3>
-                                                                            An inspiring oasis of quiet and peaceful contemplation, the Sambodhi Retreat Centre is situated in a secluded corner of the transformative MIMC.
+                                                                            Venerable Sanghasena realized that the main root cause of poverty and social unrest was illiteracy. He knew that when people were given proper...
                                                                             <span class="separator transparent" style="margin: 12px 0;"></span>
                                                                         </div>
                                                                     </div>
@@ -52,7 +52,7 @@ export default component$(() => {
                                                                         <div class="box_image_with_border" style="color:black;">
                                                                             <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/21.jpg" alt="Mahabodhi Residential School" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 26%; top: 26%" class="fas fa-school"></i></span></span></div>
                                                                             <h3 style="color:black; font-size: 18px; text-transform: uppercase">Courses & Retreats</h3>
-                                                                            MIMC Residential School is a natural and tranquil institution which fosters an ideal educational environment for both students and teachers.
+                                                                            The Sambodhi Retreat Centre offers both short and longer duration meditation courses. The tremendously popular and highly successful three-day meditation...
                                                                             <span class="separator transparent" style="margin: 12px 0;"></span>
                                                                         </div>
                                                                     </div>
@@ -63,9 +63,9 @@ export default component$(() => {
                                                                 <div class="vc_column-inner">
                                                                     <div class="wpb_wrapper">
                                                                         <div class="box_image_with_border" style="color:black;">
-                                                                            <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/3.jpg" alt="Karuna Charitable Hospital" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 26%; top: 26%" class="fas fa-hospital-alt"></i></span></span></div>
+                                                                            <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/3.jpg" alt="Karuna Charitable Hospital" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 35%; top: 26%" class="fas fa-user-graduate"></i></span></span></div>
                                                                             <h3 style="color:black; font-size: 18px; text-transform: uppercase">Education</h3>
-                                                                            MIMC has been supplementing the government's efforts by providing a strong and effective public health service for the people of Ladakh.
+                                                                            Mahabodhi Residential School-Leh is a natural and tranquil institution away from the hustle and bustle of the city which fosters an ideal educational...
                                                                             <span class="separator transparent" style="margin: 12px 0;"></span>
                                                                         </div>
                                                                     </div>
@@ -76,9 +76,9 @@ export default component$(() => {
                                                                 <div class="vc_column-inner">
                                                                     <div class="wpb_wrapper">
                                                                         <div class="box_image_with_border" style="color:black;">
-                                                                            <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/4.jpg" alt="Visually Impaired Hostel" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 26%; top: 26%" class="fas fa-eye-slash"></i></span></span></div>
+                                                                            <div class="box_image_holder"><span class="box_image_shadow"></span><span class="image_holder_inner"><img src="images/4.jpg" alt="Visually Impaired Hostel" /></span><span class="box_icon"><span class="icon-stack"><i class="icon-circle icon-stack-base" style="color: darkred;"></i><i style="color: #fff; z-index: 999; position: absolute; left: 35%; top: 26%" class="fas fa-suitcase-rolling"></i></span></span></div>
                                                                             <h3 style="color:black; font-size: 18px; text-transform: uppercase">MIMC Travel Desk</h3>
-                                                                            Mahabodhi School and Hostel for the Visually-impaired Children is dedicated to the visually disabled children of the Himalayan region.
+                                                                            Whether you're an adventure seeker, a cultural explorer, or simply someone seeking solace, Mahabodhi Spiritual Adventure Travel Agency is your trusted...
                                                                             <span class="separator transparent" style="margin: 12px 0;"></span>
                                                                         </div>
                                                                     </div>
