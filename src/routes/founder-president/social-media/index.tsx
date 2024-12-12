@@ -74,21 +74,6 @@ export default component$(() => {
                                                         </div>
                                                         <div class="post_text">
                                                             <div class="post_text_holder">
-                                                                <div class="post_description">
-                                                                    <span class="post_social">
-                                                                        <div class="blog_share">
-                                                                            <span class="social_share_holder">
-                                                                                <span class="social_share_icon">Share</span>
-                                                                                <div class="social_share_dropdown" style="visibility: hidden; overflow: hidden; display: none;">
-                                                                                    <ul>
-                                                                                        <li class="facebook_share"><a title="Share on Facebook" href="javascript:void(0)" onClick="window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=Check+Out+Our+Profile+Page%21&amp;p[url]=https%3A%2F%2Fmahabodhi-ladakh.org.com%2Fsubway%2Fcheck-it-out%2F&amp;p[images][0]=https://mahabodhi-ladakh.org/subway/wp-content/uploads/2013/10/blog-10.jpg&amp;p[summary]=The+term+minimalism+is+also+used+to+describe+a+trend+in+design+and+architecture+where+in+the+subject+is+reduced+to+its+necessary+elements.+Minimalist+design+has+been+highly+influenced+by+Japanese+traditional+design+and+architecture.+In+addition%2C+the+work+of+De+Stijl+artists+is+a+major+source+of+reference+for+this+kind+of+work.', 'sharer', 'toolbar=0,status=0,width=620,height=280');"><i class="icon-facebook"></i><span class="share_text">Post On Facebook</span></a></li>
-                                                                                        <li class="twitter_share"><a href="#" title="Share on Twitter" onClick="popUp=window.open('http://twitter.com/home?status=The+term+minimalism+is+also+used+to+describe+a+trend+in+design+and+https://mahabodhi-ladakh.org/subway/check-it-out/', 'popupwindow', 'scrollbars=yes,width=800,height=400');popUp.focus();return false;"><i class="icon-twitter"></i><span class="share_text">Share On Twitter</span></a></li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </span>
-                                                                        </div>
-                                                                    </span>
-                                                                </div>
                                                                 <i class="link_mark icon-link pull-left"></i>
                                                                 <div class="post_title">
                                                                     <h3><a href="https://demo.qodeinteractive.com/subway/check-it-out/" title="Check Out Our Profile Page!">Check Out Our Facebook Page!</a></h3>
