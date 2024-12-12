@@ -9,7 +9,7 @@ export default component$(() => {
             <div class="column1">
                 <div class="column_inner">
                     <div class="contact_form">
-                        <h3 style="display: flex; color: #000; font-size: 28px; line-height: 40px; margin-top: 54px; text-align: left; letter-spacing: 2px;">Welcome to the Mahabodhi International Meditation Centre home page.</h3>                       
+                        <h3 style="display: flex; color: #000; font-size: 28px; line-height: 40px; margin-top: 54px; text-align: left; letter-spacing: 2px;">Welcome to the Mahabodhi International Meditation Centre, Ladakh.</h3>                       
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@ export default component$(() => {
                                         <div class="wpb_wrapper" style="color: #6e6e6e;">
                                             <div class="wpb_text_column wpb_content_element ">
                                                 <div class="wpb_wrapper">
-                                                    <h3 style="color: #000; font-size: 18px;">Mahabodhi International Meditation </h3>
+                                                    <h3 style="color: #000; font-size: 18px;">Mahabodhi International Meditation Centre</h3>
                                                 </div>
                                             </div>
                                             
