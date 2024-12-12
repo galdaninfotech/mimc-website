@@ -18,7 +18,11 @@ export default component$(() => {
                                         <div class="textwidget" style="text-align: justify; font-size: 12px; color: burlywood;">
                                             <img class="alignnone size-full wp-image-310" alt="logo" src="/images/logo_footer.png" width="117" height="28" />
                                             <div class="separator transparent" style="margin-top:10px;margin-bottom:5px;"></div>
-                                            The Mahabodhi International Meditation Centre had its humble beginnings in one small rented room in Leh in 1986 when Venerable Bhikkhu Sanghasena realized there was a great need to offer both humanitarian and spiritual services to the people of Ladakh.
+                                            <ul id="menu-footer_menu" class="menu">
+                                                <li id="menu-item-1111" style="font-size: 16px; line-height: 40px;" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2543"><a href="/about-us/"><i class="fa fa-dharmachakra"></i>Volunteer</a></li>
+                                                <li id="menu-item-1112" style="font-size: 16px; line-height: 40px;" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2544"><a href="/home-parallax/"><i class="fa fa-dharmachakra"></i>Donate</a></li>
+                                                <li id="menu-item-1113" style="font-size: 16px; line-height: 40px;" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2545"><a href="/home-product/"><i class="fa fa-dharmachakra"></i>Share</a></li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -134,7 +138,6 @@ export default component$(() => {
                                             <a href="https://instagram.com/mahabodhiladakh" title="instagram"> <i class="fab fa-instagram" aria-hidden="true"></i> </a>
                                             <a href="https://youtube.com/mahabodhiladakh" title="youtube"> <i class="fab fa-youtube-square" aria-hidden="true"></i> </a>
                                             <a href="https://whatsapp.com/mahabodhiladakh" title="whatsapp"> <i class="fab fa-whatsapp social  whatsapp fa-3x"></i> </a>
-                                            <a href="#" title="linkedin"> <i class="fab fa-linkedin"></i> </a>
                                         </div>
                                     </div>
                                 </div>

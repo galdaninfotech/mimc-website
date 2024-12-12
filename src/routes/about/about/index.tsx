@@ -1,10 +1,8 @@
-import { component$, useStylesScoped$ } from '@builder.io/qwik';
+import { component$ } from '@builder.io/qwik';
 import { type DocumentHead } from '@builder.io/qwik-city';
 import Sidebar1 from '~/components/sidebar1/sidebar1';
-import styles from './index.css?inline';
 
 export default component$(() => {
-    useStylesScoped$(styles);
 
   return (
     <div class="content" style="min-height: 150px;">
@@ -52,22 +50,43 @@ export default component$(() => {
                                                                 <strong>Venerable Sanghasena</strong>&nbsp;realized that the main root cause of poverty and social unrest was illiteracy. He knew that when people were given proper holistic education, the cycle of poverty and social evils could be broken. With this in mind, he started the first <strong>Residential school</strong>&nbsp; underprivileged children who came from the far flung corners of Ladakh. From this initial project, other desperately needed humanitarian services were identified and added to the Devachan campus which now houses a home for the aged, visually impaired, a <strong>monastery</strong>,&nbsp;<strong>nunnery</strong>,&nbsp;<strong>meditation</strong>,&nbsp; <strong>yoga centre</strong>&nbsp; and so on.
                                                             </p>
                                                             <p>&nbsp;</p>
-                                                            <p>
-                                                                Today the Devachan campus has become a home and refuge for thousands of deserving people who live happily and peacefully together. A dedicated team of social workers, teachers, doctors, monks, nuns, community leaders and care-providers have created an integrated community at Devachan which provides comprehensive care to all segments of society: children, the elderly, special needs individuals, monks and nuns, the sick, as well as those seeking spiritual development. The community has become a model for the region through harmonious sustainable and ecological development.
-                                                            </p>
-                                                            <p>&nbsp;</p>
-                                                            <p>
-                                                                In fact, people from various parts of the world have come to learn and want to emulate a similar community in their own countries. With the continued support of like minded sponsors from all over the world, we hope to be able to contribute our part towards this goal by serving the people of Ladakh. We welcome anyone who would also like to be a part of this initiative.
-                                                            </p>
-                                                            <p>&nbsp;</p>
-                                                            <p>
-                                                                MIMC is indeed a great example of one man's vision turning into reality. His great vision of love and compassion for the underprivileged people of Ladakh has been materialized in the very formation of MIMC.
-                                                            </p>
+                                                            
 
 
-                                                            <div class="portfolio_paging">
-                                                                <span class="load_more"><a href="https://mahabodhi-spirirual-adventure.netlify.app"><i class="fas fa-suitcase"></i>MIMC Travel Desk</a></span>
-                                                            </div> <br />
+                                                            
+
+
+                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
+                                                                <div class="vc_column-innerz" style="margin-right: 10px;">
+                                                                    <div class="wpb_wrapper">
+                                                                        <div class="image_with_text_over">
+                                                                            <div class="shader"></div>
+                                                                            <img src="/images/about/intro-image1.jpg" alt="Intro Image 1" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
+                                                                <div class="vc_column-innerz" style="margin-right: 10px;">
+                                                                    <div class="wpb_wrapper">
+                                                                        <div class="image_with_text_over">
+                                                                            <div class="shader"></div>
+                                                                            <img src="/images/about/intro-image2.jpg" alt="Intro Image 2" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
+                                                                <div class="vc_column-innerz" style="margin-right: 10px;">
+                                                                    <div class="wpb_wrapper">
+                                                                        <div class="image_with_text_over">
+                                                                            <div class="shader"></div>
+                                                                            <img src="/images/about/intro-image3.jpg" alt="Intro Image 3" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                            
 
 
                                                         </div>
@@ -76,6 +95,8 @@ export default component$(() => {
                                                 </div>
                                             </div>
                                         </div>
+
+
                                     </div>
                                 </section>
                             </div>

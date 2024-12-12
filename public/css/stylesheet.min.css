@@ -762,7 +762,8 @@ nav.main_menu ul li a {
     cursor: pointer;
     line-height: 60px;
     padding: 0 16px;
-    margin: 0
+    margin: 0;
+    letter-spacing: 0.5px;
 }
 
 nav.main_menu>ul>li>a span {
@@ -822,7 +823,7 @@ nav.mobile_menu ul li.active>a,
 section.side_menu #lang_sel_list li a:hover,
 section.side_menu #lang_sel_list.lang_sel_list_horizontal a.lang_sel_sel,
 section.side_menu #lang_sel_list.lang_sel_list_vertical a.lang_sel_sel {
-    color: darkred
+    color: #ff5300;
 }
 
 nav.main_menu>ul>li:hover>a {
@@ -877,7 +878,7 @@ nav.main_menu>ul>li:hover>.second {
 .drop_down .second .inner {
     padding: 0;
     display: block;
-    background-color: #f3f3f3
+    background-color: darkred;
 }
 
 .drop_down .second .inner ul {
@@ -903,7 +904,7 @@ nav.main_menu>ul>li:hover>.second {
     display: block;
     font-size: 12px;
     font-weight: 300;
-    color: #4b4b4b;
+    color: #fff;
     height: auto;
     line-height: 14px;
     letter-spacing: 0;
@@ -912,7 +913,7 @@ nav.main_menu>ul>li:hover>.second {
     -webkit-transition: .3s;
     -moz-transition: .3s;
     -o-transition: .3s;
-    text-transform: none
+    text-transform: capitalize;
 }
 
 .drop_down .second .inner ul li:last-child>a {
@@ -1617,7 +1618,7 @@ aside .widget li:last-child {
 .title h1 {
     font-size: 30px;
     line-height: 35px;
-    color: #000;
+    color: darkred;
     display: inline-block;
     margin: 0;
     padding: 0;
@@ -3329,7 +3330,7 @@ blockquote h5 {
     font-size: 18px;
     color: darkred;
     text-align: center;
-    margin: 5px 20px 0 0
+    margin: 16px 14px 0 0;
 }
 
 .message,
@@ -6871,6 +6872,23 @@ body:not([class*=subway-core]) .blog_holder article .post_image img {
     right: 0
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* bg */
+.wrapper .wrapper_inner .content {
+    background: #F9FBE7;
+}
 /* Paragraph */
 p {
     text-align: justify;

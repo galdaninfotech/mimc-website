@@ -13,7 +13,7 @@ export default component$(() => {
                         <div class="vc_column-inner">
                             <div class="wpb_wrapper">
                                 <div class="latest_post_holder">
-                                    <h2 class="text-center" style="color: black; margin-bottom: 60px;">LATEST NEWS</h2>
+                                    <h2 class="text-center" style="color: black; margin: 60px 0px; ">LATEST NEWS</h2>
                                     <ul>
                                         <li class="three">
                                             <div class="latest_post">

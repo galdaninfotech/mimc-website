@@ -41,6 +41,25 @@ export default component$(() => {
                                                                 <div class="shader"></div>
                                                                 <img src="/images/about/our-motto.jpg" alt="Services" />
                                                             </div>
+                                                            <h2>Morning Meditation Program</h2>
+                                                            
+                                                            <div class="list number">
+                                                                <ul>
+                                                                    <li>Shangri-La Restaurant</li>
+                                                                    <li>Souvenir Shop</li>
+                                                                    <li>International Calling Facilities</li>
+                                                                    <li>Internet Cafe</li>
+                                                                    <li>Open orchard garden</li>
+                                                                    <li>Doctor on call</li>
+                                                                    <li>Library & TV Lounge</li>
+                                                                    <li>Organize tracking and sight seeing</li>
+                                                                    <li>Taxi booking service</li>
+                                                                    <li>Forex</li>
+                                                                    <li>Airport transfer facility</li>
+                                                                    <li>Hot and Cold shower</li>
+                                                                    <li>Laundry</li>
+                                                                </ul>
+                                                            </div>
 
                                                             
                                                         
