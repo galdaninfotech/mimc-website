@@ -66,8 +66,8 @@ export default component$(() => {
                             <div class="second">
                                 <div class="inner">
                                     <ul>
-                                        <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-fade-inout-transition/" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
-                                        <li id="nav-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/page-updown-transition/" class=""><i class="menu_icon blank"></i><span></span>Login</a></li>
+                                        <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/" class=""><i class="menu_icon blank"></i><span></span>News</a></li>
+                                        <li id="nav-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/" class=""><i class="menu_icon blank"></i><span></span>Login</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -124,7 +124,7 @@ export default component$(() => {
                             <div class="second">
                                 <div class="inner">
                                     <ul>
-                                        <li id="nav-menu-item-2007" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/education/mahabodhi-educational-program" class=""><i class="menu_icon blank"></i><span></span>Mahabodhi educational programmes</a></li>
+                                        <li id="nav-menu-item-2007" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/education/mahabodhi-education-program" class=""><i class="menu_icon blank"></i><span></span>Mahabodhi educational programmes</a></li>
                                         <li id="nav-menu-item-2594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub">
                                             <a href="/education/mahabodhi-residential-school-leh/introduction" class=""><i class="menu_icon blank"></i><span></span>Mahabodhi Residential School -Leh</a>
                                             <ul>
@@ -163,7 +163,7 @@ export default component$(() => {
                             </div>
                         </li>
                         <li id="nav-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Social Welfare</a>
+                            <a href="/social-welfare/social-welfare" class=""><i class="menu_icon blank"></i><span></span>Social Welfare</a>
                             <div class="second">
                                 <div class="inner">
                                     <ul>
@@ -191,7 +191,7 @@ export default component$(() => {
                             </div>
                         </li>
                         <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Sustainable Development</a>
+                            <a href="/sustainable-development/sustainable-development" class=""><i class="menu_icon blank"></i><span></span>Sustainable Development</a>
                             <div class="second">
                                 <div class="inner">
                                     <ul>
@@ -205,7 +205,7 @@ export default component$(() => {
                             </div>
                         </li>
                         <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Sponsorship</a>
+                            <a href="/sponsorship/sponsorship" class=""><i class="menu_icon blank"></i><span></span>Sponsorship</a>
                             <div class="second">
                                 <div class="inner">
                                     <ul>
@@ -223,7 +223,7 @@ export default component$(() => {
                             </div>
                         </li>
                         <li id="nav-menu-item-2355" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-                            <a href="#" class=""><i class="menu_icon blank"></i><span></span>Global Family</a>
+                            <a href="/global-family/global-family" class=""><i class="menu_icon blank"></i><span></span>Global Family</a>
                             <div class="second">
                                 <div class="inner">
                                     <ul>
@@ -255,33 +255,33 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>About</span><span class="mobile_arrow"></span></a>
+                            <a href="/about/about" class=" current "><span>About</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/about-founder" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction on MIMC</a></li>
-                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/our-motto" class=""><i class="menu_icon blank"></i><span></span>Our Motto</a></li>
-                                <li id="mobile-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/mimc-timeline" class=""><i class="menu_icon blank"></i><span></span>MIMC’s Timeline</a></li>
-                                <li id="mobile-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/mimc-activities" class=""><i class="menu_icon blank"></i><span></span>Humanitarian Activities undertaken by MIMC</a></li>
-                                <li id="mobile-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/upcoming-events" class=""><i class="menu_icon blank"></i><span></span>Upcoming Events</a></li>
-                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/guidelines" class=""><i class="menu_icon blank"></i><span></span>Guidelines</a></li>
-                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/testimonials" class=""><i class="menu_icon blank"></i><span></span>Testimonials</a></li>
-                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
+                                <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/about-founder" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction on MIMC</a></li>
+                                <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/our-motto" class=""><i class="menu_icon blank"></i><span></span>Our Motto</a></li>
+                                <li id="mobile-menu-item-1994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/mimc-timeline" class=""><i class="menu_icon blank"></i><span></span>MIMC’s Timeline</a></li>
+                                <li id="mobile-menu-item-1995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/mimc-activities" class=""><i class="menu_icon blank"></i><span></span>Humanitarian Activities undertaken by MIMC</a></li>
+                                <li id="mobile-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
+                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/upcoming-events" class=""><i class="menu_icon blank"></i><span></span>Upcoming Events</a></li>
+                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/guidelines" class=""><i class="menu_icon blank"></i><span></span>Guidelines</a></li>
+                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/testimonials" class=""><i class="menu_icon blank"></i><span></span>Testimonials</a></li>
+                                <li id="mobile-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/about/contact" class=""><i class="menu_icon blank"></i><span></span>Contact</a></li>
                             </ul>
                         </li>
 
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>Founder President</span><span class="mobile_arrow"></span></a>
+                            <a href="/founder-president/about-founder" class=" current "><span>Founder President</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
-                                <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/past-present-designation" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
+                                <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/about-founder" class=""><i class="menu_icon blank"></i><span></span>Brief Introduction</a></li>
                                 <li id="nav-menu-item-1998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/past-present-designation" class=""><i class="menu_icon blank"></i><span></span>Present & Past Designation</a></li>
                                 <li id="nav-menu-item-1999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/achievement-awards" class=""><i class="menu_icon blank"></i><span></span>Achievement & Awards</a></li>
                                 <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/gallery" class=""><i class="menu_icon blank"></i><span></span>Photo Gallery</a></li>
-                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="https://www.facebook.com/Ven.Sanghasena?mibextid=ZbWKwL" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
+                                <li id="nav-menu-item-2000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/social-media" class=""><i class="menu_icon blank"></i><span></span>Facebook Page</a></li>
                             </ul>
                         </li>
                         
                         <li id="mobile-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
-                            <a href="#" class=""><span>Meditation</span><span class="mobile_arrow"></span></a>
+                            <a href="/meditation/meditation" class=""><span>Meditation</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/meditation/sambodhi-retreat-centre" class=""><i class="menu_icon blank"></i><span></span>MIMC Sambodhi Retreat Centre</a></li>
                                 <li id="nav-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/founder-president/changspa-centre" class=""><i class="menu_icon blank"></i><span></span>MIMC Changspa Centre</a></li>
@@ -293,7 +293,7 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
-                            <a href="#" class=""><span>Education</span><span class="mobile_arrow"></span></a>
+                            <a href="/education/mahabodhi-education-program" class=""><span>Education</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="mobile-menu-item-2007" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/education/mahabodhi-educational-program" class=""><i class="menu_icon blank"></i><span></span>The Mahabodhi educational programmes</a></li>
                                 <li id="mobile-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
@@ -331,7 +331,7 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
-                            <a href="#" class=""><span>Social Welfare</span><span class="mobile_arrow"></span></a>
+                            <a href="/social-welfare/social-welfare" class=""><span>Social Welfare</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="mobile-menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
                                     <a href="#" class=""><span>Old Age Home</span><span class="mobile_arrow"></span></a>
@@ -356,7 +356,7 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>Sustainable Development</span><span class="mobile_arrow"></span></a>
+                            <a href="/sustainable-development/sustainable-development" class=" current "><span>Sustainable Development</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="mobile-menu-item-1991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sustainable-development/sustainable-eco-development-project" class=""><i class="menu_icon blank"></i><span></span>Sustainable Eco-development Project</a></li>
                                 <li id="mobile-menu-item-1992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sustainable-development/mahabodhi-publication-house" class=""><i class="menu_icon blank"></i><span></span>Mahabodhi Publication House</a></li>
@@ -367,7 +367,7 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-1993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>Sponsorship</span><span class="mobile_arrow"></span></a>
+                            <a href="/sponsorship/sponsorship" class=" current "><span>Sponsorship</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sponsorship/sponsors" class=""><i class="menu_icon blank"></i><span></span>Sponsors</a></li>
                                 <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/sponsorship/ways-to-sponsor" class=""><i class="menu_icon blank"></i><span></span>Ways To Sponsor</a></li>
@@ -382,7 +382,7 @@ export default component$(() => {
                         </li>
 
                         <li id="mobile-menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-48 current_page_item current-menu-ancestor current_page_ancestor menu-item-has-children active has_sub">
-                            <a href="/" class=" current "><span>Global Family</span><span class="mobile_arrow"></span></a>
+                            <a href="/global-family/global-family" class=" current "><span>Global Family</span><span class="mobile_arrow"></span></a>
                             <ul class="sub_menu">
                                 <li id="mobile-menu-item-2375" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/about" class=""><i class="menu_icon blank"></i><span></span>About</a></li>
                                 <li id="mobile-menu-item-2372" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="/global-family/services" class=""><i class="menu_icon blank"></i><span></span>Services</a></li>

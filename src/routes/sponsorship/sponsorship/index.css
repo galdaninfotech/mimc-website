@@ -1,0 +1,24 @@
+h2 {
+    color: black;
+    font-size: 18px;
+}
+
+.sponsors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px dotted #000;
+
+}
+
+.sponsors img {
+    width: 200px;
+
+}
+.sponsors p  span{
+    display: block;
+
+}
+.sponsors p.address {
+    margin-left: 10px;
+}
