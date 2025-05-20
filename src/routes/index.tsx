@@ -4,16 +4,28 @@ import type { DocumentHead } from '@builder.io/qwik-city';
 import Slider from '~/components/starter/slider/slider';
 import HomeNews from '~/components/home-news/home-news';
 import HomeIntro from '~/components/home-intro';
+import StrapiFetch2 from '~/components/strapi-fetch2/strapi-fetch2';
+
+import { routeLoader$ } from '@builder.io/qwik-city';
+import { getHomePage } from "~/data/loaders";
+
+export const useHomeData = routeLoader$(async () => {
+  const data = await getHomePage();
+  return {...data.data};
+});
 
 export default component$(() => {
   return (
     <>
+    
         <div class="content">
             <div class="content_inner">
-            
-            <Slider />
 
-                <div class="full_width">
+            
+                {/* <Slider /> */}
+                <StrapiFetch2 />
+
+                {/* <div class="full_width">
                     <div class="full_width_inner">
                         <section class="wpb-content-wrapper">
                             
@@ -132,7 +144,7 @@ export default component$(() => {
 
                         </section>
                     </div>
-                </div>  
+                </div>   */}
                 
             </div> 
         </div>
